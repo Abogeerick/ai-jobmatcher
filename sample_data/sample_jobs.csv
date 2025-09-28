@@ -1,0 +1,11 @@
+id,title,company,description
+1,Software Engineer,Optiven,"Build ERP systems using Python and React. Collaborate with HR to automate workflows and improve efficiency."
+2,Data Analyst,KPMG,"Analyze financial datasets using SQL and PowerBI. Provide insights to support decision-making."
+3,Frontend Developer,Andela,"Develop responsive UI components using React and Tailwind CSS. Work closely with designers to deliver seamless user experiences."
+4,Backend Developer,Microsoft,"Design and implement scalable APIs using Django and PostgreSQL. Ensure high system reliability."
+5,Machine Learning Engineer,Google,"Train and deploy ML models for recommendation systems. Use Python, TensorFlow, and cloud services."
+6,IT Auditor,Deloitte,"Conduct IT risk assessments and audits. Ensure compliance with IT policies and frameworks."
+7,Full-Stack Developer,Optiven,"Work on both frontend (React) and backend (Flask/PostgreSQL) to build internal CRM systems."
+8,Cloud Engineer,AWS,"Deploy and manage cloud infrastructure. Automate deployments with Docker and Kubernetes."
+9,AI Research Assistant,University of Nairobi,"Assist in building NLP models using spaCy and Hugging Face. Research applications of AI in finance."
+10,Cybersecurity Analyst,IBM,"Monitor security systems, analyze threats, and recommend security improvements to protect enterprise assets."
